@@ -2,7 +2,7 @@
 Backend assignment for HomeJam
  
  
- ***I have Submitted this assignment in the ZIP File. please take time running the code using python.***
+ ***I have Uploaded this assignment in the ZIP File. please take time running the code using python.***
 
 
 Hi! 👋
